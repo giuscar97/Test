@@ -17,6 +17,7 @@ You can add applications to this project with the 'new-app' command. For example
 to build a new example application in Ruby.
 [vagrant@ocptest ~]$ oc new-app --name=demo https://github.com/wicksy/openshift-demo-app
 --> Found Docker image d9ad582 (7 months old) from Docker Hub for "wicksy/alpine"
+                                            https://github.com/giuscar97/Test/blob/main/openshift-demo-app-master
 
     * An image stream will be created as "alpine:latest" that will track the source image
     * A Docker build using source code from https://github.com/wicksy/openshift-demo-app will be created
